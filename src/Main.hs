@@ -23,6 +23,3 @@ rotateVectorByAngle (Vec2D x y) θ = Vec2D ((x * cos θ) - (y * sin θ)) ((x * s
 
 moveForward :: RobotState -> Double -> RobotState
 moveForward (RobotState pos rot) len = undefined
-
-scalar
-

@@ -11,4 +11,3 @@ executable sensor-simulator
                    base >= 4,
                    AC-Vector
   ghc-options:     -Wall
-
